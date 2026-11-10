@@ -45,6 +45,8 @@ La práctica consistió en **analizar de forma colaborativa las cuatro arquitect
 
 ## 3. Fase 1 – Investigación y diagramas
 
+<img width="1093" height="1005" alt="image" src="https://github.com/user-attachments/assets/ac7aecad-43d6-4296-b648-931957d401f7" />
+
 Se elaboró la **Figura 1** en draw.io, con un diagrama por arquitectura:
 
 - **Cliente-servidor:** varios clientes conectados a un servidor a través de la red.
